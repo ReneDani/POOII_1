@@ -1,4 +1,4 @@
-# Escriba su solución aquí
+# Escriba su solución aquí  
 NCoop = 0
 NTEC = 0
 NCoopTEC =0
@@ -15,3 +15,10 @@ for i in range(1,31):
 print("En total se Imprimio la palabra Coop :",NCoop," veces")
 print("En total se Imprimio la palabra TEC:",NTEC," veces")
 print("En total se Imprimio la palabra CoopTEC :",NCoopTEC," veces")
+
+
+
+
+  
+
+  
