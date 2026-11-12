@@ -1,0 +1,35 @@
+-----------Persona: 1 --------
+nombre: Carlos
+edad: 20
+correo: carlos@gmail.com
+cedula: 0107252389
+residencia: Cuenca
+activo: True
+-----------Persona: 2 --------
+nombre: Juan
+edad: 20
+correo: juan@gmail.com
+cedula: 0107252389
+residencia: Cuenca
+activo: True
+-----------Persona: 3 --------
+nombre: Maria
+edad: 20
+correo: juan@gmail.com
+cedula: 0107252389
+residencia: Cuenca
+activo: True
+-----------Persona: 4 --------
+nombre: Juan
+edad: 20
+correo: juan@gmail.com
+cedula: 0107252389
+residencia: Cuenca
+activo: True
+-----------Persona: 5 --------
+nombre: Juan
+edad: 20
+correo: juan@gmail.com
+cedula: 0107252389
+residencia: Cuenca
+activo: True

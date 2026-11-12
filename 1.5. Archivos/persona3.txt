@@ -1,0 +1,60 @@
+--- PERSONA 1 ---
+nombre: Carlos
+edad: 20
+correo: carlos@gmail.com
+cedula: 0107252389
+residencia: Cuenca
+activo: True
+
+--- PERSONA 2 ---
+nombre: María
+edad: 22
+correo: maria@gmail.com
+cedula: 0105849302
+residencia: Quito
+activo: True
+
+--- PERSONAS 3 ---
+nombre: Luis
+edad: 25
+correo: luis@gmail.com
+cedula: 0109988776
+residencia: Guayaquil
+activo: False
+
+--- PERSONAS 4 ---
+nombre: Luis
+edad: 25
+correo: luis@gmail.com
+cedula: 0109988776
+residencia: Guayaquil
+activo: False
+
+--- PERSONAS 5 ---
+nombre: Luis
+edad: 25
+correo: luis@gmail.com
+cedula: 0109988776
+residencia: Guayaquil
+activo: False
+
+nombre: Luis
+edad: 25
+correo: luis@gmail.com
+cedula: 0109988776
+residencia: Guayaquil
+activo: False
+{'nombre': 'Debora', 'edad': 27, 'correo': 'debora@gmail.com', 'cedula': '0109988777', 'residencia': 'Guayaquil', 'activo': False}
+nombre: Miguel
+edad: 25
+correo: migue@gmail.com
+cedula: 0109988776
+residencia: Guayaquil
+activo: False
+persona 7: {'nombre': 'Debora', 'edad': 27, 'correo': 'debora@gmail.com', 'cedula': '0109988777', 'residencia': 'Guayaquil', 'activo': False}
+nombre: Miguel
+edad: 25
+correo: migue@gmail.com
+cedula: 0109988776
+residencia: Guayaquil
+activo: False

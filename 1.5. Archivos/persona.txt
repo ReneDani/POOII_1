@@ -1,0 +1,6 @@
+nombre: Carlos
+edad: 20
+correo: carlos@gmail.com
+cedula: 0107252389
+residencia: Cuenca
+activo: True
